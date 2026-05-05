@@ -43,7 +43,7 @@ Rather than relying on intuition or anecdotal market advice, this analysis uses 
 
 The analysis is built on a dimensional warehouse modeled using a star schema.
 
-![Data Warehouse Schema]()
+![Data Warehouse Schema](../Images/DataWarehouse.png)
 
 This schema enables efficient analytical queries across job postings, employers, and required skills.
 
