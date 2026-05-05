@@ -1,6 +1,6 @@
 ## 🔍 Exploratory Data Analysis with SQL: Job Market Analytics
 
-![SQL-Powered Skill Intelligence Pipeline](../Images\DEPipelineImage.png)
+![SQL-Powered Skill Intelligence Pipeline](../Images/DEPipelineImage.png)
 
 A SQL-first analytics project exploring the data engineering job market using real-world job posting data. **This project demonstrates how I use SQL to move beyond simple querying—designing analytical workflows, joining dimensional models, and translating labor market data into business-ready insights**.
 
@@ -43,7 +43,7 @@ Rather than relying on intuition or anecdotal market advice, this analysis uses 
 
 The analysis is built on a dimensional warehouse modeled using a star schema.
 
-![Data Warehouse Schema](../Images\DataWarehouse.png)
+![Data Warehouse Schema]()
 
 This schema enables efficient analytical queries across job postings, employers, and required skills.
 
